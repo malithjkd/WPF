@@ -1,0 +1,31 @@
+﻿<Window x:Class="ACSWpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ACSWpfApp1"
+        mc:Ignorable="d"
+        Title="Active thermal compensation" Height="300" Width="500">
+    <Grid Opacity="0.9">
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="118" Margin="10,55,0,0" VerticalAlignment="Top" Width="159" Opacity="0.65"/>
+
+        <Button x:Name="btn_connect" Content="Connect" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Click="btn_connect_Click" Width="75"/>
+        <TextBox x:Name="textBoxToUpdate" HorizontalAlignment="Left" Margin="90,11,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="218" RenderTransformOrigin="0.695,-4.539" />
+        <Button x:Name="btn_enable_motor_0" Content="Enable" HorizontalAlignment="Left" Margin="110,86,0,0" VerticalAlignment="Top" Width="56" Click="btn_enable_motor_axis_0_Click" RenderTransformOrigin="0.197,0.653"/>
+        <Label Content="Axis" HorizontalAlignment="Left" Margin="13,55,0,0" VerticalAlignment="Top" Width="43" Opacity="0.65"/>
+        <Label Content="Y - Top - 0" HorizontalAlignment="Left" Margin="101,55,0,0" VerticalAlignment="Top" Width="65"/>
+        <Label Content="Motor state" HorizontalAlignment="Left" Margin="13,85,0,0" VerticalAlignment="Top" Width="76" Opacity="0.65"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="118" Margin="188,55,0,0" VerticalAlignment="Top" Width="159" Opacity="0.65"/>
+        <Button x:Name="btn_enable_motor_1" Content="Enable" HorizontalAlignment="Left" Margin="296,86,0,0" VerticalAlignment="Top" Width="48" Click="btn_enable_motor_axis_1_Click" RenderTransformOrigin="0.197,0.653"/>
+        <Label Content="Axis" HorizontalAlignment="Left" Margin="191,55,0,0" VerticalAlignment="Top" Width="43" Opacity="0.65"/>
+        <Label Content="X - Bot - 1" HorizontalAlignment="Left" Margin="279,55,0,0" VerticalAlignment="Top" Width="65"/>
+        <Label Content="Motor state" HorizontalAlignment="Left" Margin="191,83,0,0" VerticalAlignment="Top" Width="75" Opacity="0.65"/>
+        <Button Name="Buffer_exc" Content="Run buffer 10" HorizontalAlignment="Left" Margin="378,88,0,0" VerticalAlignment="Top" Click="Buffer_exc_Click" Width="84"/>
+        <Button Name="Update_buffer" Content="Update buffer 10" HorizontalAlignment="Left" Margin="378,58,0,0" VerticalAlignment="Top" Width="102" Click="btn_update_buffer_Click"/>
+        <Label Content="Homing " HorizontalAlignment="Left" Margin="13,111,0,0" VerticalAlignment="Top" Width="63" Opacity="0.65"/>
+        <Button Name="homing_0" Content="Homeing" HorizontalAlignment="Left" Margin="110,117,0,0" VerticalAlignment="Top" Width="56" Click="btn_homing_0_Click"/>
+        <Label Content="Homing" HorizontalAlignment="Left" Margin="191,111,0,0" VerticalAlignment="Top" Opacity="0.65"/>
+        <Button Name="homing_1" Content="Homing" HorizontalAlignment="Left" Margin="296,114,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.025,-0.274" Width="48" Click="btn_homing_1_Click"/>
+
+    </Grid>
+</Window>

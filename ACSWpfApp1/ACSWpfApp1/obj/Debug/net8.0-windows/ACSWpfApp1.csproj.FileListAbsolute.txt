@@ -1,0 +1,71 @@
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.csproj.AssemblyReference.cache
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1_MarkupCompile.cache
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1_MarkupCompile.lref
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACSWpfApp1.exe
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACSWpfApp1.deps.json
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACSWpfApp1.runtimeconfig.json
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACSWpfApp1.dll
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACSWpfApp1.pdb
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACS.SPiiPlusNETStandard.dll
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.g.resources
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.AssemblyInfoInputs.cache
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.AssemblyInfo.cs
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.csproj.CopyComplete
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.dll
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\refint\ACSWpfApp1.dll
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.pdb
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.genruntimeconfig.cache
+C:\Users\mj.j\source\repos\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ref\ACSWpfApp1.dll
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1_MarkupCompile.cache
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1_MarkupCompile.lref
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.dll
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\refint\ACSWpfApp1.dll
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.pdb
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACSWpfApp1.exe
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACSWpfApp1.deps.json
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACSWpfApp1.runtimeconfig.json
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACSWpfApp1.dll
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACSWpfApp1.pdb
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACS.SPiiPlusNETStandard.dll
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.csproj.AssemblyReference.cache
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.g.resources
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.AssemblyInfoInputs.cache
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.AssemblyInfo.cs
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.sourcelink.json
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.genruntimeconfig.cache
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ref\ACSWpfApp1.dll
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\learn_c_shape\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.csproj.Up2Date
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1_MarkupCompile.cache
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1_MarkupCompile.lref
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.dll
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\refint\ACSWpfApp1.dll
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.pdb
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACSWpfApp1.exe
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACSWpfApp1.deps.json
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACSWpfApp1.runtimeconfig.json
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACSWpfApp1.dll
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACSWpfApp1.pdb
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\bin\Debug\net8.0-windows\ACS.SPiiPlusNETStandard.dll
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.csproj.AssemblyReference.cache
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.g.resources
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.AssemblyInfoInputs.cache
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.AssemblyInfo.cs
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.sourcelink.json
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.csproj.Up2Date
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ACSWpfApp1.genruntimeconfig.cache
+C:\Users\mj.j\OneDrive - PBA Systems Pte. Ltd\GitHub\Github\Learning\C#_ACS\ACSWpfApp1\ACSWpfApp1\obj\Debug\net8.0-windows\ref\ACSWpfApp1.dll
